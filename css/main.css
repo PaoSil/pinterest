@@ -1,0 +1,146 @@
+header {
+ background:#ffffff;
+ position: fixed;
+ top: 0;
+ width:90%;
+ z-index:2;
+}
+
+p {
+  display: inline-block;
+  font-family : 'Montserrat', sans-serif;
+  left: 55px;
+  position: relative;
+}
+
+input {
+  background: #efefef;
+  border: none;
+  font-size: 18px;
+  left: 47px;
+  position: relative;
+  width: 700px;
+}
+
+hr {
+  background: #d3d3d3;
+  border: none;
+  height: 1px;
+  left: 0px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  height: 20px;
+  padding: 20px 20px;
+  padding-top: 23px;
+  font-family :'Montserrat', sans-serif;
+  margin-right: 10px;
+  border-radius : 10px;
+  background: red;
+  color : #fff;
+  font-weight : bold;
+}
+
+nav {
+  padding-left : 210px;
+}
+
+.menu-search{
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width:1200px;
+}
+.icon-pinterest {
+  color:#bd081c;
+  font-size:45px;
+  position: relative;
+  top: 10px;
+}
+
+.search {
+  background: #efefef;
+  border-radius: 10px;
+  display: inline-block;
+  height: 45px;
+  left: 20px;
+  position: relative;
+  width: 940px;
+}
+
+.icon-search {
+  font-size: 18px;
+  left: 45px;
+  position: relative;
+}
+
+.icon-cross {
+  left: 47px;
+  position: relative;
+}
+
+.icon-circle-down {
+  font-size: 23px;
+  left: 56px;
+  position: relative;
+  top: 4px;
+}
+
+.icon-user {
+  color : #b5b5b5;
+  font-size: 25px;
+  left: 55px;
+  position: relative;
+}
+
+.icon-menu {
+  color: #b5b5b5;
+  font-size: 25px;
+  left: 80px;
+  position: relative;
+}
+
+.icon-bubble {
+  color: #b5b5b5;
+  font-size: 25px;
+  left: 105px;
+  position: relative;
+}
+
+#cheat {
+  background-image: url(https://laboratoria.github.io/pinterestify/img/1.jpg);
+}
+
+#tutorial {
+  background-image: url(https://laboratoria.github.io/pinterestify/img/8.jpg);
+}
+
+#code {
+  background-image: url(https://laboratoria.github.io/pinterestify/img/3.jpg);
+}
+
+#fun {
+  background-image: url(https://laboratoria.github.io/pinterestify/img/4.jpg);
+}
+
+#programing {
+  background-image: url(https://laboratoria.github.io/pinterestify/img/5.jpg);
+}
+
+#project {
+  background-image: url(https://laboratoria.github.io/pinterestify/img/6.jpg);
+}
+
+#post {
+  background-image: url(https://laboratoria.github.io/pinterestify/img/7.jpg);
+}
+
+#medium {
+  background-image: url(https://laboratoria.github.io/pinterestify/img/8.jpg);
+}
+
+#video{
+  background-image: url(https://laboratoria.github.io/pinterestify/img/9.jpg);
+}
