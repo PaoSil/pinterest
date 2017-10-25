@@ -144,3 +144,31 @@ nav {
 #video{
   background-image: url(https://laboratoria.github.io/pinterestify/img/9.jpg);
 }
+main {
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 170 px ;
+  overflow: auto;
+
+}
+
+img {
+  margin-left : 0;
+  margin-right: 9px;
+  margin-bottom : 10px;
+  border-radius : 8px;
+  z-index: 1;
+  float: left;
+  position: relative;
+}
+
+#pin1{
+  margin-right: 10px;
+}
+#pin2{
+  margin-right: 10px;
+}
+#pin4{
+  margin: 10px; 
+}
